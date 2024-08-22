@@ -16,9 +16,9 @@ A decentralized platform where a community of art enthusiasts collaboratively cu
 ## Implementation
 
 * *Smart Contracts*: Solidity for voting, fund management, and proposal execution.
-* *DAO Framework*: Aragon, DAOstack, or OpenZeppelin Governor for streamlined development.
-* *NFT Integration*: ERC-721 or ERC-1155 standards for NFT handling.
-* *Frontend*: React with Web3.js or Ethers.js for blockchain interaction.
+* *DAO Framework*: OpenZeppelin Governor for streamlined development.
+* *NFT Integration*: ERC-721  standards for NFT handling.
+* *Frontend*: React with  Ethers.js for blockchain interaction.
 * *Blockchain*: Ethereum or Polygon (Layer 2) for lower gas fees.
 
 ## Potential Extensions
